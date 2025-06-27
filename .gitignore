@@ -1,0 +1,11 @@
+*.log
+*.tmp
+*.bak
+node_modules/
+dist/
+.angular/
+bin/
+obj/
+.vscode/
+.DS_Store
+Thumbs.db
